@@ -5,7 +5,7 @@ The dataset contains 13 columns and 6497 rows which tell us about the different 
 
 
 
-#SMART QUESTIONS:
+# SMART QUESTIONS:
 1. Which chemical attribute has the most significant influence on wine quality?
 2. How does the distribution of sugar, sulphate, chloride, pH, and alcohol content change over
 different quality categories?
